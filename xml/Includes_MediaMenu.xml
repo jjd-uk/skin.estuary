@@ -337,7 +337,7 @@
 			<height>100%</height>
 			<onleft>9000</onleft>
 			<onup>9000</onup>
-			<onright>50</onright>
+			<onright>55</onright>
 			<ondown>9000</ondown>
 			<onback>50</onback>
 			<control type="label" id="200">
